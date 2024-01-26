@@ -11,9 +11,9 @@ Mentoria https://github.com/marcodotcastro#ol%C3%A1-eu-sou-marco-castro<br>
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-
-
-
+ <h3 align="left">Connect with me:</h3>
+     
+ <a href="https://linkedin.com/in/juniorconde" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="juniorconde" height="30" width="40" /></a>
 
 
 <!--
@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
