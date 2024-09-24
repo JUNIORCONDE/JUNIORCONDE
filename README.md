@@ -5,7 +5,7 @@
 ### Sobre mim
 Olá! Me chamo Rubens Conde Junior, Formando em Ciências Contábeis, Analista Fiscal Tributário, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia e programação. Atualmente, estou em processo de transição de carreira, buscando adquirir novos conhecimentos e aplicá-los em projetos práticos.
 
-Estou sempre em busca de aprender mais e desenvolver minhas habilidades em diferentes tecnologias. Participo de mentorias e programas de desenvolvimento como o [Desenvolvendo.me](https://desenvolvendo.me/) e tenho o privilégio de ser mentorado por [Marco Castro](https://github.com/marcodotcastro).
+Estou sempre em busca de aprender mais e desenvolver minhas habilidades em diferentes tecnologias. Participo de mentorias e programas de desenvolvimento como o [Desenvolvendo.me](https://desenvolvendo.me/)
 
 ### Habilidades Técnicas
 Atualmente, estou estudando e desenvolvendo projetos com as seguintes tecnologias:
